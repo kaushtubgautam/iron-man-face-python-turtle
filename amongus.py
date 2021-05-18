@@ -1,3 +1,6 @@
+#amongus-python-turtle
+#by @kaushtubgautam
+
 import turtle
 
 color1 =  'blue'
