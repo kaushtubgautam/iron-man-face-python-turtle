@@ -1,3 +1,5 @@
+#iron-man-face-python-turtle
+#by @kaushtubgautam
 import turtle
 
 ankur1 = [[(-40, 120), (-70, 260), (-130, 230), (-170, 200), (-170, 100), (-160, 40), (-170, 10), (-150, -10), (-140, 10),
@@ -16,11 +18,11 @@ ankur3 = [[(-60, -220), (-80, -240), (-110, -220), (-120, -250), (-90, -280), (-
 turtle.hideturtle()
 turtle.bgcolor('#ba161e')  # Dark Red
 turtle.setup(500, 600)
-turtle.title("I AM IRONMAN")
+turtle.title("I AM IRONMAN") #title
 ankur1Goto = (0, 120)
 ankur2Goto = (0, -30)
 ankur3Goto = (0, -220)
-turtle.speed(2)
+turtle.speed(2)           #speed
 
 
 def logo(a, b):
