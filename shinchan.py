@@ -1,3 +1,6 @@
+#shinchan-python-turtle
+#by @kaushtubgautam
+
 from turtle import *
 #import time
 s=Screen()
